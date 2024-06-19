@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="OldMaid" size="500.000000 723.428589" />
+    <ImageTarget name="Giraffe" size="500.000000 725.623596" />
+    <ImageTarget name="Dog" size="500.000000 714.285706" />
+    <ImageTarget name="DoorMouse" size="500.000000 723.493958" />
+    <ImageTarget name="Zebra" size="500.000000 709.141296" />
+  </Tracking>
+</QCARConfig>
